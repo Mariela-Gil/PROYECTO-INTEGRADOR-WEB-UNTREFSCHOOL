@@ -1,0 +1,44 @@
+#enviar{
+    background-color:  #00425A;
+    color: white;
+}
+#limpiar{
+    background-color:  #00425A;
+    color: white;
+}
+textarea{
+    width: 40rem;
+}
+label{
+    width: 60rem;
+}
+#area{
+    width: 50rem;
+}
+
+
+@media screen and (max-width:768px){
+    h1{
+        margin-left: 2rem;
+    }
+
+    p{
+        margin-left: 2rem;
+    }
+    
+    label{
+        margin-left: 2rem;
+    }
+
+    input{
+        margin-left: 2rem;
+    }
+
+    textarea{
+        margin-left: 2rem;
+    }
+
+    .volver{
+        margin-left: 2rem;
+    }
+}
